@@ -22,12 +22,6 @@
 #include "gde021a1_device.h"
 #include "stm32l0538_discovery_epd.h"
 
-
-
-
-
-
-
 extern void hm_store_thread_entry(void* parameter);
 extern void hm_print_thread_entry(void* parameter);
 extern void hm_tdc_thread_entry(void* parameter);
